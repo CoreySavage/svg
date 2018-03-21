@@ -1,0 +1,9 @@
+<svg width="24px" height="24px" viewBox="0 0 490 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>Circle Arrow - Left</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="left-arrow" fill-rule="nonzero" fill="rgba(15,15,15,.6)">
+            <path d="M245,0 C109.7,0 0,109.7 0,245 C0,380.3 109.7,490 245,490 C380.3,490 490,380.3 490,245 C490,109.7 380.3,0 245,0 Z M317.2,335.5 L274.5,378.2 L184,287.7 L141.3,245 L184,202.3 L274.5,111.8 L317.2,154.5 L226.8,245 L317.2,335.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="10px" height="40px" viewBox="0 0 10 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>Bar Arrow - Right</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bar_arrow_left" transform="translate(5.000000, 20.000000) scale(-1, 1) translate(-5.000000, -20.000000) " fill-rule="nonzero" fill="#0F0F0F">
+            <path d="M0,0 L10,0 L10,40 L0,40 L0,0 Z M9.11687515,24.3468183 L4.80501606,20.0301895 L9.11687515,15.7135607 L7.0801895,13.676875 L2.76356065,17.9935038 L0.726875,20.0301895 L2.76356065,22.0668752 L7.0801895,26.383504 L9.11687515,24.3468183 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>
