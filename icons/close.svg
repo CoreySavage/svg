@@ -1,10 +1,7 @@
-<svg width="3vw" height="3vh" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <desc>Close</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
-            <path d="M16,0 C7.168,0 0,7.168 0,16 C0,24.832 7.168,32 16,32 C24.832,32 32,24.832 32,16 C32,7.168 24.832,0 16,0 Z" id="Path" fill-opacity="0.2" fill="#cccccc"></path>
-            <polygon id="Path" fill-opacity="0.4" fill="#FFFFFF" points="8 10 10.03125 8 16 14 22.03125 8.03125 24.03125 10 18.03125 16 24.0625 22 22.03125 24 16 18 10.03125 24 8 22.03125 14.0625 16"></polygon>
-        </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.8">
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="0 2 2.03125 0 8 6 14.03125 0.03125 16.03125 2 10.03125 8 16.0625 14 14.03125 16 8 10 2.03125 16 0 14.03125 6.0625 8"></polygon>
     </g>
 </svg>
